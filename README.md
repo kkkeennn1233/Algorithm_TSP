@@ -1,2 +1,2 @@
 # Algorithm_TSP
-Solve TSP using Dynamic_Programing and Greedy_Alogorithm
+Solve TSP using Dynamic_Programing and Greedy_Algorithm
